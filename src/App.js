@@ -160,11 +160,8 @@ class App extends React.Component {
                   searchResult={this.state.searchResult}
                   shelfChangeHandler={this.shelfChangeHandler}
                 />)}
-              />
-            
-        }
-     
-            
+              />   
+        }       
           
      </div>) 
   };
